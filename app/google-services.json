@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813702391743",
+    "firebase_url": "https://okidos1app.firebaseio.com",
+    "project_id": "okidos1app",
+    "storage_bucket": "okidos1app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813702391743:android:8ca1d1bd2ca3cd3e24230a",
+        "android_client_info": {
+          "package_name": "com.example.okidos1_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813702391743-gu2h0e4pq51jato4t0k4aln933h1d323.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okidos1_app",
+            "certificate_hash": "ef90b582212e0b62665ed3c88c2d5a22a012d5d3"
+          }
+        },
+        {
+          "client_id": "813702391743-8kig602mous087et99s6osdreodb3nfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-1kaY028FrzdiZkHY8c-QevMP679wzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813702391743-8kig602mous087et99s6osdreodb3nfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
